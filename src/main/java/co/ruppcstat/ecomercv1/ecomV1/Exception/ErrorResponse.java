@@ -1,4 +1,4 @@
-package co.ruppcstat.testbanking.Exception;
+package co.ruppcstat.ecomercv1.ecomV1.Exception;
 
 import lombok.*;
 
